@@ -1,0 +1,1 @@
+I'm a gaming creation enthusiast who's still a beginner, and I've just started learning the basics of Unity to create small apps for practice. Coincidentally, my music player's VIP subscription has expired, so I think it's a good opportunity to build my own music player for personal use and give my collection of 300 downloaded MP3s a proper home.
