@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>taglib-sharp-netstandard2.0</id>
+    <version>2.1.0</version>
+    <authors>taglib-sharp</authors>
+    <owners>taglib-sharp</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A library for reading and writing audio metatags. Fork to support .NetStandard 2.0 was created by Peter Hagen : https://github.com/mono/taglib-sharp/issues/60</description>
+    <copyright>Copyright (c) 2006-2007 Brian Nickel.  Copyright (c) 2009-2010 Other contributors</copyright>
+    <repository url="https://github.com/PeterHagen/taglib-sharp" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+    <title>Fork from https://github.com/mono/taglib-sharp to support NetStandard 2.0</title>
+    <projectUrl>https://github.com/mono/taglib-sharp</projectUrl>
+    <summary>A library for reading and writing audio metatags. Fork to support .NetStandard 2.0 was created by Peter Hagen : https://github.com/mono/taglib-sharp/issues/60</summary>
+  </metadata>
+</package>
